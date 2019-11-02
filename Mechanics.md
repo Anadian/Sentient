@@ -1,0 +1,19 @@
+{{Header Nav|game=Sentient}}
+
+==Time Progression==
+'''Sentient''' features an innovative, if enigmatic, time-progression system. [[Sentient/Events|Events]] transpire in real-time, and with each minute, the situation aboard the ICARUS becomes more dire. Precisely when events occur is not fully-understood but is likely the result of several dynamic factors as well as specifically-timed scripting. Effectively, the entire game is paced against an invisible time limit, completing certain [[Sentient/Objectives|objectives]] can delay, and [[Sentient/Endings#Good Endings|ultimately prevent]], the ICARUS's impending doom, while others may even [[Sentient/Endings#Comical Fail-State Endings|accelerate it]], and should player choose to do absolutely nothing, even that will still [[Sentient/Endings#Default Endings|eventually trigger a catastrophic ending]].
+==Simulation Systems==
+The ICARUS is a fully-autonomous space colony and '''Sentient''' takes great strides to express this through its game-play systems. 
+===Crew===
+[[Sentient/Characters|Crew members]] have complex and adaptive routines which can span multiple decks of the ship, and in addition to being able to interact with various [[Sentient/Machines|machines]] and [[Sentient/Items|items]] throughout the game world, can even enter into dynamic conversation with one-another. The player's actions and choices also effect the crew members opinion of the player character, Garrit Sherova, and the degree to which they'll trust him with important information.
+===Machinery===
+The machinery of ICARUS also carries systemic qualities: the machines aboard the ICARUS have dynamic states, ranging from working-properly, to broken, to powered-off; machines can be used, damaged, and repaired by both the player and any NPC; and all of the machines exist within a single electrical grid with certain machines depending on other machines to be able to function properly and, likewise, providing functionality for other machines.
+===Events===
+The ICARUS is also host to many dynamic, environmental events like solar-flare storms and the spread of diseases aboard the ship; these effect the health of its crew member and, likely, the [[#Time Progression|longevity of the ship as a whole]].
+==Free-Form Dialogue==
+Possibly the most audacious feature of '''Sentient''', the free-form dialogue attempts to forgo the standard, a-few-fixed-sentences dialogue-choice system used in most games in favour of a unique, combinatorial dialogue system. Instead of selecting from a few context-sensitive dialogue options, the player is able to construct a wide range of questions, statements, and commands from template sentences incorporating any character, machine, or item as (a) noun(s). The system is complex, ambitious, and, honestly, a little cumbersome; regardless, mastering it is essential to making progress in '''Sentient'''.
+==Point and Click==
+In addition to its normal, console-style, first-person adventure game mechanics, '''Sentient''' also allows the player to interact with the game world through a more point-and-click adventure-game-style interface. This is done by [[Sentient/Controls|pressing the '''Cursor''' button]] which will then make a PC-style mouse cursor appear, at which point the player can "click" (the '''OK''' button) on various machines and items in the room (anything that can be clicked will be denoted by a green square surrounding it, while in '''Cursor''' mode) to bring up a context-sensitive interaction sub-menu. This '''Cursor''' state can also be triggered through the [[#Free-Form Dialogue|'''Talk''' menu]] and is the primary way to use [[Sentient/Items|items]] on things, being required in many [[Sentient/Objectives|objectives]]. The camera will move automatically to follow the cursor and pressing the '''Cursor''' button again will return the game to the neutral, tank-control, first-person-adventure-game state.
+
+{{Footer Nav|game=Sentient|prevpage=|nextpage=}}
+
